@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Line Follower Snamjul Controller</string>
+    <string name="select_device">Select Device</string>
+    <string name="controller">Controller</string>
+</resources>
